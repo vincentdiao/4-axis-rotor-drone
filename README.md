@@ -4,5 +4,5 @@
 
 ## 硬件清单
 ### 无人机本体
-* arduino uno 或者mage
+* arduino uno 或者 mage
 * 
